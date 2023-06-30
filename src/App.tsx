@@ -1,11 +1,12 @@
-import "./App.css";
+import './App.css'
+import { Router } from './Router'
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold underline">Vite + React + TS + Tailwind.css</h1>
+      <Router />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
