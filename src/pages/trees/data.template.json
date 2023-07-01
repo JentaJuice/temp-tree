@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "artist": "",
+  "links": [
+    {
+      "services": "youtube",
+      "link": ""
+    },
+    {
+      "services": "youtubeMusic",
+      "link": ""
+    },
+    {
+      "services": "spotify",
+      "link": ""
+    },
+    {
+      "services": "itunes",
+      "link": ""
+    },
+    {
+      "services": "spotify",
+      "link": ""
+    }
+  ]
+}
