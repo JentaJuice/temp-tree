@@ -13,15 +13,39 @@ const ROUTE = {
     base: '/katz-wav',
     paths: [
       {
-        id: 7,
+        id: 0,
+        path: '/daydreaming'
+      },
+      {
+        id: 1,
+        path: '/sympatia-love'
+      },
+      {
+        id: 2,
+        path: '/colorful-illusion'
+      },
+      {
+        id: 3,
+        path: '/reality'
+      },
+      {
+        id: 4,
+        path: '/monotone-daylight'
+      },
+      {
+        id: 5,
+        path: '/pastel-delightful'
+      },
+      {
+        id: 6,
         path: '/missmeyet-various'
       },
       {
-        id: 8,
+        id: 7,
         path: '/with-u'
       },
       {
-        id: 9,
+        id: 8,
         path: '/love-inlove-heartbroken'
       }
     ]
