@@ -1,5 +1,5 @@
 interface LinkInterface {
-  id: Number,
+  id: number,
   service: String,
   link: String
 }
