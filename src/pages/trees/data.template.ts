@@ -1,13 +1,14 @@
 const data = {
   "title": "",
   "artist": "",
+  "holder": "",
   "links": [
     {
       "services": "youtube",
       "link": ""
     },
     {
-      "services": "youtubeMusic",
+      "services": "ytmusic",
       "link": ""
     },
     {
