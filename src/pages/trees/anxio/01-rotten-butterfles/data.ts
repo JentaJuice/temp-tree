@@ -3,7 +3,7 @@ import DataInterface from "../../interface"
 const data: DataInterface = {
   title: 'Rotten Butterflies',
   artist: 'Anxiowaldosiaticist',
-  holder: 'JentaJuice',
+  holder: '2023 JentaJuice',
   cover: 'https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/d0/03/75d00372-1cd9-6b34-899d-ad4eeb22f4d0/7321170657478.png/3000x3000bb.webp',
   links: [
     {
