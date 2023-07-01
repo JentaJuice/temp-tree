@@ -1,12 +1,12 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import ROUTES from './Constants/route'
-import Layout from './pages/_Layout'
+import Layout from './Pages/_Layout'
 
-import Home from './pages/home/index'
-import NotFound from './pages/errors/notFound'
+import Home from './Pages/Home/index'
+import NotFound from './Pages/Errors/notFound'
 
-import TreeLayout from './pages/trees/pageLayout'
+import TreeLayout from './Pages/Trees/pageLayout'
 
 export const Router = () => {
   return (

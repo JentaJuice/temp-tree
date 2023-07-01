@@ -1,19 +1,19 @@
 import ROUTE from "../Constants/route"
-import DataInterface from "../pages/trees/interface"
+import DataInterface from "../Pages/Trees/interface"
 
 // Axio
-import RottenButterfly from "../pages/trees/anxio/01-rotten-butterfles/data"
+import RottenButterfly from "../Pages/Trees/anxio/01-rotten-butterfles/data"
 
 // Kat.wav
-import Daydreaming from "../pages/trees/kat.wav/01-daydreaming/data"
-import SympatiaLove from "../pages/trees/kat.wav/02-sympatia-love/data"
-import ColorfulIllusion from "../pages/trees/kat.wav/03-colorful-illusion/data"
-import Reality from "../pages/trees/kat.wav/04-reality/data"
-import MonotoneDaylight from "../pages/trees/kat.wav/05-monotone-daylight/data"
-import PastelDelightFul from "../pages/trees/kat.wav/06-pastel-delightful/data"
-import MissMeYet from "../pages/trees/kat.wav/07-miss-me-yet-various/data"
-import WithU from "../pages/trees/kat.wav/08-with-u/data"
-import LoveInLoveHeartbroken from "../pages/trees/kat.wav/09-love-inlove-n-heartbroken/data"
+import Daydreaming from "../Pages/Trees/kat.wav/01-daydreaming/data"
+import SympatiaLove from "../Pages/Trees/kat.wav/02-sympatia-love/data"
+import ColorfulIllusion from "../Pages/Trees/kat.wav/03-colorful-illusion/data"
+import Reality from "../Pages/Trees/kat.wav/04-reality/data"
+import MonotoneDaylight from "../Pages/Trees/kat.wav/05-monotone-daylight/data"
+import PastelDelightFul from "../Pages/Trees/kat.wav/06-pastel-delightful/data"
+import MissMeYet from "../Pages/Trees/kat.wav/07-miss-me-yet-various/data"
+import WithU from "../Pages/Trees/kat.wav/08-with-u/data"
+import LoveInLoveHeartbroken from "../Pages/Trees/kat.wav/09-love-inlove-n-heartbroken/data"
 
 function switcher(artist: String, name: String): DataInterface | undefined {
   if (artist == 'axio') {
