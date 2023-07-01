@@ -1,4 +1,4 @@
-import className from "../../constants/tailwind.class"
+import className from "../../Constants/tailwind.class"
 import Footer from "../../components/Footer"
 
 const NotFound = () => {

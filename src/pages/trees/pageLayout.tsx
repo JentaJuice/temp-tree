@@ -2,7 +2,7 @@ import { Helmet } from 'react-helmet'
 
 import switcher from '../../modules/switcher'
 import Footer from '../../components/LinkFooter'
-import className from '../../constants/tailwind.class'
+import className from '../../Constants/tailwind.class'
 
 interface Props {
   name: String
