@@ -1,7 +1,7 @@
 interface LinkInterface {
   id: number,
   service: String,
-  link: String
+  link: string
 }
 
 interface DataInterface {
