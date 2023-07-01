@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet'
 
-import switcher from '../../modules/switcher'
+import switcher from '../../Modules/switcher'
 import Footer from '../../Components/LinkFooter'
 import className from '../../Constants/tailwind.class'
 
