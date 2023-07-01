@@ -28,7 +28,7 @@ const data: DataInterface = {
     },
     {
       id: 4,
-      service: 'spotify',
+      service: 'tidal',
       link: '',
     },
   ],
