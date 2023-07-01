@@ -2,6 +2,7 @@ const data = {
   "title": "",
   "artist": "",
   "holder": "",
+  "cover": "",
   "links": [
     {
       "services": "youtube",
