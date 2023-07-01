@@ -1,4 +1,4 @@
-import Footer from "../../components/Footer"
+import Footer from "../../Components/Footer"
 import className from "../../Constants/tailwind.class"
 
 const Home = () => {

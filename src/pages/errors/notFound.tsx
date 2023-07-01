@@ -1,5 +1,5 @@
 import className from "../../Constants/tailwind.class"
-import Footer from "../../components/Footer"
+import Footer from "../../Components/Footer"
 
 const NotFound = () => {
   return (
