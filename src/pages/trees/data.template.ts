@@ -1,30 +1,37 @@
-const data = {
-  "title": "",
-  "artist": "",
-  "holder": "",
-  "cover": "",
-  "links": [
+import DataInterface from './interface'
+
+const data: DataInterface = {
+  title: '',
+  artist: '',
+  holder: '',
+  cover: '',
+  links: [
     {
-      "services": "youtube",
-      "link": ""
+      id: 0,
+      service: 'youtube',
+      link: '',
     },
     {
-      "services": "ytmusic",
-      "link": ""
+      id: 1,
+      service: 'ytmusic',
+      link: '',
     },
     {
-      "services": "spotify",
-      "link": ""
+      id: 2,
+      service: 'spotify',
+      link: '',
     },
     {
-      "services": "itunes",
-      "link": ""
+      id: 3,
+      service: 'itunes',
+      link: '',
     },
     {
-      "services": "spotify",
-      "link": ""
-    }
-  ]
+      id: 4,
+      service: 'spotify',
+      link: '',
+    },
+  ],
 }
 
 export default data
