@@ -1,4 +1,4 @@
-{
+const data = {
   "title": "",
   "artist": "",
   "links": [
@@ -24,3 +24,5 @@
     }
   ]
 }
+
+export default data
