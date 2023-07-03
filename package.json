@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "postbuild": "react-snap"
+    "preview": "vite preview"
   },
   "reactSnap": {
     "source": "dist"
@@ -18,7 +17,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "react-router-dom": "^6.14.1"
+    "react-router-dom": "^6.14.1",
+    "vite-plugin-ssr": "^0.4.132"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
