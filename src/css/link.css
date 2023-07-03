@@ -1,0 +1,17 @@
+.button {
+  transition: all .3s;
+}
+
+.button:hover {
+  transform: scale(.95, .95);
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+}
+
+footer p {
+  margin: 1rem 0;
+  padding: 0;
+}
